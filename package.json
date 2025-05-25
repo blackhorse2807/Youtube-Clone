@@ -1,0 +1,20 @@
+{
+  "name": "youtube_clone",
+  "version": "1.0.0",
+  "description": "youtube",
+  "homepage": "https://github.com/blackhorse2807/Travel-App#readme",
+  "bugs": {
+    "url": "https://github.com/blackhorse2807/Travel-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackhorse2807/Travel-App.git"
+  },
+  "license": "ISC",
+  "author": "Ujjwal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
