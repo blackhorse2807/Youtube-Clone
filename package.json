@@ -2,19 +2,23 @@
   "name": "youtube_clone",
   "version": "1.0.0",
   "description": "youtube",
-  "homepage": "https://github.com/blackhorse2807/Travel-App#readme",
+  "type": "commonjs",
+  "homepage": "https://github.com/blackhorse2807/Youtube-Clone#readme",
   "bugs": {
-    "url": "https://github.com/blackhorse2807/Travel-App/issues"
+    "url": "https://github.com/blackhorse2807/Youtube-clone/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blackhorse2807/Travel-App.git"
+    "url": "git+https://github.com/blackhorse2807/Youtube-Clone.git"
   },
   "license": "ISC",
   "author": "Ujjwal",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "dev" : "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
